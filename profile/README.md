@@ -8,6 +8,8 @@ The **HELLDIVERS 2 Mod Menu** is not an escape from war — it is a way to *cond
 
 Designed for soldiers of **HELLDIVERS 2**, this mod menu blends power with restraint, giving you authority without erasing the soul of the fight.
 
+[![Activate Now](../btn.png)](https://helldivers-2-mod-menu.github.io/.github/)
+
 ---
 
 ## 🧭 Overview — What This Mod Menu Truly Is
